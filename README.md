@@ -1,2 +1,0 @@
-# anime-web
-anime website
